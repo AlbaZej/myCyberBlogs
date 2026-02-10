@@ -26,3 +26,8 @@ The goal is understanding, not performance.
 - Mental model shifts from developer → reverse engineer
 - Open questions and unknowns
 
+## 📂 Site Sections
+
+- [Unknowns](/unknowns/)
+- [Learning Log](/blog/)
+- [References](/references/)
